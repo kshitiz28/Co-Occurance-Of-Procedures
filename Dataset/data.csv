@@ -1,0 +1,140 @@
+PatientID,TestName
+1,Blood test
+1,X-ray
+1,ECG
+1,Allergy test
+1,Stool sample analysis
+2,Urine test
+2,MRI scan
+2,Biopsy
+3,CT scan
+3,ECG
+3,Colonoscopy
+3,Pap smear
+3,Bone density test
+3,Stool sample analysis
+3,Blood test
+4,Mammogram
+4,HIV test
+5,X-ray
+5,Pulmonary function test
+5,Biopsy
+5,Urine test
+6,HIV test
+7,ECG
+7,Blood test
+7,CT scan
+7,X-ray
+7,Colonoscopy
+7,Mammogram
+8,Stool sample analysis
+8,Bone density test
+8,Urine test
+8,ECG
+8,MRI scan
+8,Pap smear
+8,Allergy test
+8,Blood test
+8,Colonoscopy
+9,Pulmonary function test
+9,Biopsy
+9,Mammogram
+10,Bone density test
+10,MRI scan
+10,Stool sample analysis
+10,Allergy test
+10,X-ray
+11,ECG
+11,Blood test
+12,CT scan
+12,Urine test
+12,Colonoscopy
+12,Bone density test
+12,HIV test
+12,Stool sample analysis
+12,Pap smear
+12,Mammogram
+13,MRI scan
+13,Urine test
+13,Allergy test
+13,X-ray
+14,ECG
+14,Blood test
+14,CT scan
+14,Colonoscopy
+14,Mammogram
+14,Pap smear
+15,Pulmonary function test
+15,Biopsy
+15,HIV test
+16,CT scan
+16,Pap smear
+16,Bone density test
+16,Mammogram
+17,X-ray
+17,Blood test
+17,MRI scan
+17,Allergy test
+17,Colonoscopy
+17,Stool sample analysis
+17,ECG
+18,Urine test
+18,HIV test
+19,Pulmonary function test
+19,Biopsy
+19,Urine test
+19,ECG
+19,Pap smear
+19,Mammogram
+20,CT scan
+20,Bone density test
+20,Blood test
+21,MRI scan
+21,Allergy test
+21,X-ray
+21,Colonoscopy
+21,Stool sample analysis
+22,HIV test
+23,ECG
+23,Blood test
+23,CT scan
+23,Colonoscopy
+23,Mammogram
+23,Pap smear
+23,Bone density test
+23,Stool sample analysis
+24,Pulmonary function test
+24,Biopsy
+24,Urine test
+25,Mammogram
+25,HIV test
+25,X-ray
+25,Allergy test
+25,CT scan
+26,Bone density test
+26,MRI scan
+27,ECG
+27,Blood test
+27,CT scan
+27,Colonoscopy
+27,Mammogram
+27,Pap smear
+28,Urine test
+28,Allergy test
+28,X-ray
+28,Stool sample analysis
+29,Pulmonary function test
+29,Biopsy
+29,Mammogram
+30,ECG
+30,Blood test
+30,CT scan
+30,Colonoscopy
+30,Mammogram
+30,Pap smear
+30,Bone density test
+31,MRI scan
+31,Urine test
+31,Allergy test
+31,X-ray
+31,Colonoscopy
